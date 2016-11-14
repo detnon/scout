@@ -3,8 +3,6 @@
  */
 class Scout {
     public static void main(String args[]){
-        System.out.println(" ");
-
-        PortCheck.isAvailable(3);
+        PortCheck.isAvailable(27);
     }
 }
